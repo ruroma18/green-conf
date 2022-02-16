@@ -9,19 +9,20 @@
   <title>Green conference <?php echo $title; ?></title>
 </head>
 <body>
-  <header class="header-container">
-    <nav class="header-nav">
-      <ul class="nav-list">
-        <li class="nav-list-item">
-          <a href="./registration.php" class="nav-link">Registration</a></li>
-        <li class="nav-list-item">
-          <a href="./participants.php" class="nav-link">Participants</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <div class="conf-img-container">
-      <img src="./../css/bg-image2.png" alt="green conference" class="conf-img">
-    </div>
+    <header class="header-container">
+      <nav class="header-nav">
+        <ul class="nav-list">
+          <li class="nav-list-item">
+            <a href="./registration.php" class="nav-link">Registration</a></li>
+          <li class="nav-list-item">
+            <a href="./participants.php" class="nav-link">Participants</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="conf-img-container">
+        <img src="./../img/bg-image2.png" alt="green conference" class="conf-img">
+      </div>
+  
 
   

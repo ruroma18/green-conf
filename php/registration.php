@@ -31,7 +31,7 @@ if(isset($_POST["first_name"]) && isset($_POST["last_name"]) && isset($_POST["se
 	
 ?>
 
-<div class="container mt-4 registration">
+<div class="container-sm mt-4 registration">
 		<div class="row">
 			<div class="col">
 	   <!-- Форма регистрации -->
