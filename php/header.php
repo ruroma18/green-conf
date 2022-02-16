@@ -13,9 +13,9 @@
     <nav class="header-nav">
       <ul class="nav-list">
         <li class="nav-list-item">
-          <a href="#" class="nav-link">Registration</a></li>
+          <a href="./registration.php" class="nav-link">Registration</a></li>
         <li class="nav-list-item">
-          <a href="#" class="nav-link">Participants</a></li>
+          <a href="./participants.php" class="nav-link">Participants</a></li>
       </ul>
     </nav>
   </header>
